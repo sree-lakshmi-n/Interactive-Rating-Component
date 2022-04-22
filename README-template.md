@@ -30,9 +30,9 @@ Users should be able to:
 ### Screenshots of my Solution
 
 <p text-align="center">
-  <img src="./images/screenshots/initial.png" width="256" height="455">
-  <img src="./images/screenshots/hover.png" width="256" height="455">
-  <img src="./images/screenshots/active.png" width="256" height="455">
+  <img src="./images/screenshots/initial.png" width="256">
+  <img src="./images/screenshots/hover.png" width="256">
+  <img src="./images/screenshots/active.png" width="256">
 </p>
 ![Initial State](./images/screenshots/initial.png)
 ![Hover State](./images/screenshots/hover.png)
