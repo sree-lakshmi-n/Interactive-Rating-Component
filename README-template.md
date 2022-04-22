@@ -32,8 +32,7 @@ Users should be able to:
 Initial State
 
 ![Initial State](./images/screenshots/initial.png)
-
-[Hover State](./images/screenshots/hover.png)
+![Hover State](./images/screenshots/hover.png)
 
 [Active State](./images/screenshots/active.png)
 
