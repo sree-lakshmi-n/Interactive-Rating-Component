@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshots of my Solution
 
-[Initial State](./images/screenshots/initial.png)
+![Initial State](./images/screenshots/initial.png)
 
 [Hover State](./images/screenshots/hover.png)
 
