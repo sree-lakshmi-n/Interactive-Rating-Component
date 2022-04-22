@@ -30,10 +30,10 @@ Users should be able to:
 ### Screenshots of my Solution
 
 <p text-align="center">
-  <img src="./images/screenshots/initial.png" width="256">
-  <img src="./images/screenshots/hover.png" width="256">
-  <img src="./images/screenshots/active.png" width="256">
-  <img src="./images/screenshots/submitted.png" width="256">
+  <img src="./images/screenshots/initial.png" width=20%>
+  <img src="./images/screenshots/hover.png" width=20%>
+  <img src="./images/screenshots/active.png" width=20%>
+  <img src="./images/screenshots/submitted.png" width=20%>
 </p>
 
 ### Links
